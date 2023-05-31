@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/termos-e-condicoes-bws-track/static/css/main.073c9b0a.css",
-    "main.js": "/termos-e-condicoes-bws-track/static/js/main.0afc60ca.js",
+    "main.css": "/termos-e-condicoes-bws-track/static/css/main.473245ff.css",
+    "main.js": "/termos-e-condicoes-bws-track/static/js/main.b5f335e2.js",
     "static/js/787.48b18e33.chunk.js": "/termos-e-condicoes-bws-track/static/js/787.48b18e33.chunk.js",
     "index.html": "/termos-e-condicoes-bws-track/index.html",
-    "main.073c9b0a.css.map": "/termos-e-condicoes-bws-track/static/css/main.073c9b0a.css.map",
-    "main.0afc60ca.js.map": "/termos-e-condicoes-bws-track/static/js/main.0afc60ca.js.map",
+    "main.473245ff.css.map": "/termos-e-condicoes-bws-track/static/css/main.473245ff.css.map",
+    "main.b5f335e2.js.map": "/termos-e-condicoes-bws-track/static/js/main.b5f335e2.js.map",
     "787.48b18e33.chunk.js.map": "/termos-e-condicoes-bws-track/static/js/787.48b18e33.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.0afc60ca.js"
+    "static/css/main.473245ff.css",
+    "static/js/main.b5f335e2.js"
   ]
 }
